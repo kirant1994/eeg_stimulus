@@ -1,0 +1,43 @@
+General
+-------------------------------------
+Start prompt		:	1
+Break time in seconds	:	300
+Trials per break	:	75
+Keypress after break	:	False
+#####################################
+Timing in seconds
+#####################################
+Phase 1
+-------------------------------------
+Rest			:	1.5
+Delay before play	:	0.5
+Listen (minimum)	:	1.5
+Rest			:	1.5
+Record			:	2.5
+#####################################
+Phase 2a
+-------------------------------------
+Rest			:	1.5
+Image			:	1
+Delay before play	:	0.1
+Listen (minimum)	:	1
+Rest			:	1
+Record			:	2.5
+#####################################
+Phase 2b
+-------------------------------------
+Rest			:	1.5
+Image			:	1
+Rest			:	1
+Record			:	2.5
+Listen (minimum)	:	0.5
+Score			:	1
+#####################################
+Phase 3
+-------------------------------------
+Rest			:	1.5
+Delay before play	:	0.5
+Listen (minimum)	:	1.5
+Rest			:	1.5
+Record			:	2.5
+#####################################
